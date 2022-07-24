@@ -1,0 +1,15 @@
+E:\Document\УГАТУ\Магистратура\Алгоритмы и структуры данных\2 семестр\ЛР\MyHeepTree\MyHeepTree\bin\Debug\net6.0\MyHeepTree.exe
+E:\Document\УГАТУ\Магистратура\Алгоритмы и структуры данных\2 семестр\ЛР\MyHeepTree\MyHeepTree\bin\Debug\net6.0\MyHeepTree.deps.json
+E:\Document\УГАТУ\Магистратура\Алгоритмы и структуры данных\2 семестр\ЛР\MyHeepTree\MyHeepTree\bin\Debug\net6.0\MyHeepTree.runtimeconfig.json
+E:\Document\УГАТУ\Магистратура\Алгоритмы и структуры данных\2 семестр\ЛР\MyHeepTree\MyHeepTree\bin\Debug\net6.0\MyHeepTree.dll
+E:\Document\УГАТУ\Магистратура\Алгоритмы и структуры данных\2 семестр\ЛР\MyHeepTree\MyHeepTree\bin\Debug\net6.0\MyHeepTree.pdb
+E:\Document\УГАТУ\Магистратура\Алгоритмы и структуры данных\2 семестр\ЛР\MyHeepTree\MyHeepTree\obj\Debug\net6.0\MyHeepTree.csproj.AssemblyReference.cache
+E:\Document\УГАТУ\Магистратура\Алгоритмы и структуры данных\2 семестр\ЛР\MyHeepTree\MyHeepTree\obj\Debug\net6.0\MyHeepTree.GeneratedMSBuildEditorConfig.editorconfig
+E:\Document\УГАТУ\Магистратура\Алгоритмы и структуры данных\2 семестр\ЛР\MyHeepTree\MyHeepTree\obj\Debug\net6.0\MyHeepTree.AssemblyInfoInputs.cache
+E:\Document\УГАТУ\Магистратура\Алгоритмы и структуры данных\2 семестр\ЛР\MyHeepTree\MyHeepTree\obj\Debug\net6.0\MyHeepTree.AssemblyInfo.cs
+E:\Document\УГАТУ\Магистратура\Алгоритмы и структуры данных\2 семестр\ЛР\MyHeepTree\MyHeepTree\obj\Debug\net6.0\MyHeepTree.csproj.CoreCompileInputs.cache
+E:\Document\УГАТУ\Магистратура\Алгоритмы и структуры данных\2 семестр\ЛР\MyHeepTree\MyHeepTree\obj\Debug\net6.0\MyHeepTree.dll
+E:\Document\УГАТУ\Магистратура\Алгоритмы и структуры данных\2 семестр\ЛР\MyHeepTree\MyHeepTree\obj\Debug\net6.0\ref\MyHeepTree.dll
+E:\Document\УГАТУ\Магистратура\Алгоритмы и структуры данных\2 семестр\ЛР\MyHeepTree\MyHeepTree\obj\Debug\net6.0\MyHeepTree.pdb
+E:\Document\УГАТУ\Магистратура\Алгоритмы и структуры данных\2 семестр\ЛР\MyHeepTree\MyHeepTree\obj\Debug\net6.0\MyHeepTree.genruntimeconfig.cache
+E:\Document\УГАТУ\Магистратура\Алгоритмы и структуры данных\2 семестр\ЛР\MyHeepTree\MyHeepTree\obj\Debug\net6.0\refint\MyHeepTree.dll
